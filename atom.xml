@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[我的blog]]></title>
+  <link href="http://cheaptalk.github.io/atom.xml" rel="self"/>
+  <link href="http://cheaptalk.github.io/"/>
+  <updated>2013-11-06T11:46:28-05:00</updated>
+  <id>http://cheaptalk.github.io/</id>
+  <author>
+    <name><![CDATA[onlymelon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[中文也可以当标题]]></title>
+    <link href="http://cheaptalk.github.io/blog/2013/11/06/zhong-wen-ye-ke-yi-dang-biao-ti/"/>
+    <updated>2013-11-06T08:59:00-05:00</updated>
+    <id>http://cheaptalk.github.io/blog/2013/11/06/zhong-wen-ye-ke-yi-dang-biao-ti</id>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="s">&#39;hello&#39;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='scheme'><span class='line'><span class="p">(</span><span class="nb">display </span><span class="ss">&#39;fcitx</span> <span class="nv">sucks</span><span class="o">&#39;</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>
